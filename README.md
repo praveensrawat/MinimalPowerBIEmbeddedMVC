@@ -1,0 +1,2 @@
+# MinimalPowerBIEmbeddedMVC
+A minimal baseline ASP.NET MVC project with a single controller and view. Projects loads with an embedded report. Update web.config with your credentials. Features demonstrated include handling the data selected event, page navigation and filtering. View visual-minimal-pbie-project.PNG file for a visual view of the startup page.  Currently Azure is used as the backend but this can be updated to Power BI premium
